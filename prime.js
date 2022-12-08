@@ -11,5 +11,5 @@ console.log("yes")
 else{
 console,log("No")}
 }
-identifyPrime(56)
-console.log(identifyPrime)
+
+identifyPrime(57)
