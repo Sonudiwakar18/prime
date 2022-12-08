@@ -11,4 +11,5 @@ console.log("yes")
 else{
 console,log("No")}
 }
+
 identifyPrime(57)
